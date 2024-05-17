@@ -33,6 +33,6 @@ print(prediction)
 print(type(prediction))
 
 
-st.write(prediction)
+st.write('Median House Value: ', prediction)
 
 
